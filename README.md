@@ -5,4 +5,4 @@ I am altering the div tags in the code, without changing the appearance of the w
 
 The link for the website is: [https://jbobrick12.github.io/restructuring-html/](https://jbobrick12.github.io/restructuring-html/)
 
-![ScreenShot](assets\images\website-preview.png)
+![ScreenShot](assets/images/website-preview.png)
